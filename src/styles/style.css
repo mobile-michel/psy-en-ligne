@@ -1,0 +1,13 @@
+body > header {
+    background-image: url(https://images.pexels.com/photos/4098151/pexels-photo-4098151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-position: center;
+}
+
+body > header > nav {
+    background-color: aliceblue;
+}
+
+body > header > nav, body > header > h2, body > main, body > footer {
+    padding-right: 2em;
+    padding-left: 2em;
+}
